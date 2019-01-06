@@ -1,0 +1,22 @@
+.calendarSquare {
+    margin: 1px;
+    padding: 0px;
+    height: 0;
+    width: auto;
+    padding-bottom: 100%;
+    border: 1px solid black;
+}
+
+.calendarContent {
+    color: blue;
+    margin: 0px;
+    padding: 0px;
+    line-height: 1;
+}
+
+.calendarBox {
+    margin: auto;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 14.2857142857% 14.2857142857% 14.2857142857% 14.2857142857% 14.2857142857% 14.2857142857% 14.2857142857%;
+}

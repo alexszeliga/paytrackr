@@ -11,12 +11,14 @@
     "url": "git+https://github.com/alexszeliga/paytrackr.git"
   },
   "author": "alex szeliga",
-  "license": "gpl 3.0",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/alexszeliga/paytrackr/issues"
   },
   "homepage": "https://github.com/alexszeliga/paytrackr#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.2"
   }
 }
